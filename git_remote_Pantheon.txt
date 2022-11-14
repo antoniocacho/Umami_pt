@@ -1,0 +1,2 @@
+origin	ssh://codeserver.dev.437e6ad3-8303-45ca-8487-8a441710cd9c@codeserver.dev.437e6ad3-8303-45ca-8487-8a441710cd9c.drush.in:2222/~/repository.git (fetch)
+origin	ssh://codeserver.dev.437e6ad3-8303-45ca-8487-8a441710cd9c@codeserver.dev.437e6ad3-8303-45ca-8487-8a441710cd9c.drush.in:2222/~/repository.git (push)
